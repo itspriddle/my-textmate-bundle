@@ -9,7 +9,7 @@ This bundle includes a few TextMate snippets/commands I've collected.
   `// --------------------------------------------------------------------`
 * `gradient` (CSS) expands into an Internet Explorer, Safari, and Firefox
    friendly CSS-Gradient syntax (and falls back gracefully, from
-   [kneath's bundle](http://github.com/kneath/textmate-snippets/)
+   [kneath's bundle](http://github.com/kneath/textmate-snippets/))
 
 
 ## Commands
@@ -17,6 +17,7 @@ This bundle includes a few TextMate snippets/commands I've collected.
 * **&#8984;+S** Strips whitespace and saves document. Doesn't seem to work
   with bundles that include their own **&#8984;+S** command. If you know how
   to fix that and send me a pull request, you'll be my hero.
+
 
 ## Installation
 
