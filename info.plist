@@ -4,6 +4,12 @@
 <dict>
 	<key>name</key>
 	<string>Josh's Stuff</string>
+	<key>ordering</key>
+	<array>
+		<string>8D64561B-E93F-47D9-9B48-25FEB3FFA5D3</string>
+		<string>410DF97E-C57D-4C9D-94EA-A9B76C7AEABA</string>
+		<string>4652BBFC-24BD-4879-AE4D-973D5028E886</string>
+	</array>
 	<key>uuid</key>
 	<string>C9F3CDDA-C0DE-4DF7-86B8-C0E6E763A2DC</string>
 </dict>

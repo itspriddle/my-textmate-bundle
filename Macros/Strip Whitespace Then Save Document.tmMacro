@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>bundleUUID</key>
+	<string>4D798994-A6A1-4F7E-B06B-439743EC92D5</string>
 	<key>commands</key>
 	<array>
 		<dict>
@@ -42,8 +44,8 @@
 	<key>keyEquivalent</key>
 	<string>@s</string>
 	<key>name</key>
-	<string>Strip Whitespace and Save Document</string>
+	<string>Strip Whitespace Then Save Document</string>
 	<key>uuid</key>
-	<string>98A0D9E5-5118-4049-9B1C-C9B97E10ABCE</string>
+	<string>E0A9D091-F0B5-4ED1-AECF-6A47E409A270</string>
 </dict>
 </plist>
