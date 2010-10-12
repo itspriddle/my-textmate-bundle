@@ -5,6 +5,8 @@ This bundle includes a few TextMate snippets/commands I've collected.
 
 ## Snippets
 
+* `head` (JavaScript or PHP) expands into a comment header for JS/PHP files
+
 * `--` (JavaScript or PHP) expands into:
   `// --------------------------------------------------------------------`
 * `gradient` (CSS) expands into an Internet Explorer, Safari, and Firefox

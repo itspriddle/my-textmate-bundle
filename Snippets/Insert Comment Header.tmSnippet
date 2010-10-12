@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/**
+ * ${1:Project Name}
+ *
+ * @package     ${2:Package Name}
+ * @author      ${TM_AUTHOR_NAME:Name} &lt;${TM_AUTHOR_EMAIL:email@example.com}&gt;
+ * @copyright   Copyright (c) `date +%Y`, $TM_ORGANIZATION_NAME
+ * @version     ${3:0.0.0}
+ * @url         ${4:url}
+ */
+</string>
+	<key>name</key>
+	<string>Insert Comment Header</string>
+	<key>scope</key>
+	<string>source.php,source.js</string>
+	<key>tabTrigger</key>
+	<string>head</string>
+	<key>uuid</key>
+	<string>570A5ACC-8B92-40A7-8D48-39529EB1F576</string>
+</dict>
+</plist>
