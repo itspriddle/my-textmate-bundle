@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* @group clear */
+html body * span.clear, html body * div.clear, html body * li.clear, html body * dd.clear{background:none; border:0; clear:both; display:block; float:none; font-size:0; list-style:none; margin:0; padding:0; overflow:hidden; visibility:hidden; width:0; height:0;}
+.clearfix:after{clear:both; content:'.'; display:block; visibility:hidden; height:0;}
+.clearfix{display:inline-block;}
+* html .clearfix{height:1%;}
+.clearfix{display:block;}
+.clear{height:1px; clear:both; font-size:1px; line-height:1px; overflow:hidden}
+/* @end */
+</string>
+	<key>name</key>
+	<string>CSS Clear</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>clear</string>
+	<key>uuid</key>
+	<string>316E9C01-6129-4E4E-B01D-D7FD97B92825</string>
+</dict>
+</plist>

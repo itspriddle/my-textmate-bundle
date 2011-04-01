@@ -5,14 +5,20 @@ This bundle includes a few TextMate snippets/commands I've collected.
 
 ## Snippets
 
-* `head` (JavaScript or PHP) expands into a comment header for JS/PHP files
+* `head` (JavaScript or PHP) expands into a comment header for JS/PHP files.
 
 * `--` (JavaScript or PHP) expands into:
   `// --------------------------------------------------------------------`
+
 * `gradient` (CSS) expands into an Internet Explorer, Safari, and Firefox
    friendly CSS-Gradient syntax (and falls back gracefully, from
    [kneath's bundle](http://github.com/kneath/textmate-snippets/))
 
+* `reset` (CSS) expands into a CSS reset I use frequently.
+
+* `clear` (CSS) expands into a set of CSS rules I use for clearing elements.
+
+* `footer` (Javascript or PHP) expands into a comment footer for JS/PHP files.
 
 ## Commands
 

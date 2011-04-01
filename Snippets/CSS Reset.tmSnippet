@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* @group reset */
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input {margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th {font-size:1em; font-weight:normal; font-style:normal;}
+ul,ol {list-style:none;}
+fieldset,img {border:none;}
+caption,th {text-align:left;}
+table {border-collapse:collapse; border-spacing:0;}
+a {outline: 0;}
+body {font:13px/1.4em "Lucida Grande",Tahoma,Arial,Verdana,sans-serif;*font-size:small;*font:x-small;}
+select,input,button,textarea,button {font:99% "Lucida Grande",Tahoma,Arial,Verdana,sans-serif;}
+table {font-size:inherit;font:100%;}
+pre,code,kbd,samp,tt {font-family:monospace;*font-size:108%;line-height:100%;}
+/* @end */
+</string>
+	<key>name</key>
+	<string>CSS Reset</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>reset</string>
+	<key>uuid</key>
+	<string>BE0F7F45-5240-449D-8A28-D0186AC2466F</string>
+</dict>
+</plist>
